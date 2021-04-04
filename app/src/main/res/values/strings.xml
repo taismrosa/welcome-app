@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="login">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="send_button">Entrar</string>
+    <string name="welcome">Bem-vindo(a)</string>
+</resources>
